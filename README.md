@@ -1,8 +1,8 @@
-# css-loader-gif
+﻿# css-loader-gif
 利用css3的transform以及animation进行load动画设置
 
-##css3 loading动画收集，长期更新
-[demo展示页面https://github.com/szjSmiling/css-loader-gif/demo/loading.html](https://github.com/szjSmiling/css-loader-gif/demo/loading.html)
+##css3 loading动画收集，demo展示页面
+[https://github.com/szjSmiling/css-loader-gif/demo/loading.html](https://github.com/szjSmiling/css-loader-gif/demo/loading.html)
 
 *******************************************************
 
